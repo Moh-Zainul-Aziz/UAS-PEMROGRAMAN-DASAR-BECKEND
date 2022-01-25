@@ -1,0 +1,76 @@
+{
+    "banner" : [
+        {
+            "image" : "backgrond warna biru",
+            "text"  : "service"
+        }
+    ],
+    "content" : [
+        {
+            "group1" : [
+                {
+                    "image" : "automotive",
+                    "text"  : "Automotive Manufacturing",
+                    "text2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                    "image2" : "arrow",
+                    "url"    : "https://preview.colorlib.com/theme/inds/industries.html"
+                }
+            ]
+        },
+        {
+            "group2" : [
+                {
+                    "image" : "market",
+                    "text"  : "Heavy industry market",
+                    "text2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                    "image2" : "arrow",
+                    "url"    : "https://preview.colorlib.com/theme/inds/industries.html"
+                }
+            ]
+        },
+        {
+            "group3" : [
+                {
+                    "image" : "analyst",
+                    "text"  : "ndustry analysis",
+                    "text2" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                    "image2" : "arrow",
+                    "url"    : "https://preview.colorlib.com/theme/inds/industries.html"
+                }
+            ]
+        },
+        {
+            "group4" : [
+                {
+                    "image" : "automotive",
+                    "text"  : "Automotive Manufacturing",
+                    "text2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                    "image2" : "arrow",
+                    "url"    : "https://preview.colorlib.com/theme/inds/industries.html"
+                }
+            ]
+        },
+        {
+            "group5" : [
+                {
+                    "image" : "market",
+                    "text"  : "Heavy industry market",
+                    "text2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                    "image2" : "arrow",
+                    "url"    : "https://preview.colorlib.com/theme/inds/industries.html"
+                }
+            ]
+        },
+        {
+            "group6" : [
+                {
+                    "image" : "analyst",
+                    "text"  : "ndustry analysis",
+                    "text2" : " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                    "image2" : "arrow",
+                    "url"    : "https://preview.colorlib.com/theme/inds/industries.html"
+                }
+            ]
+        }
+    ]
+}

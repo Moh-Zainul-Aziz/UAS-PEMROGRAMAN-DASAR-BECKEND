@@ -1,0 +1,130 @@
+{
+    "banner" : [
+        {
+            "image" : "backgrond warna biru",
+            "text"  : "works"
+        }
+    ],
+    "content" : [
+        {
+            "group1" : [
+                {
+                    "image" : "gambar orang bekerja",
+                    "text"  : "01. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "01. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group2" : [
+                {
+                    "image" : "gambar bangunan pabrik",
+                    "text"  : "02. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "01. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group3" : [
+                {
+                    "image" : "gambar orang bekerja",
+                    "text"  : "03. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "01. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group4" : [
+                {
+                    "image" : "gambar orang bekerja",
+                    "text"  : "04. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "01. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group5" : [
+                {
+                    "image" : "gambar pusat listrik",
+                    "text"  : "05. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "06. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group6" : [
+                {
+                    "image" : "gambar jembatan",
+                    "text"  : "06. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "06. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group7" : [
+                {
+                    "image" : "gambar corong asap pabrik",
+                    "text"  : "07. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "07. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group8" : [
+                {
+                    "image" : "gambar alat pabrik",
+                    "text"  : "08. floride chemical factory ",
+                    "hover" : [
+                        {
+                            "text" : "08. Floride Chemicals Factory Lorem ipsum dolor sit amet, consectetur smo adipiscing elit, sed do eiusmod tempor inciut labore et dolore magna ali.",
+                            "text2" : "read more",
+                            "url" : "https://preview.colorlib.com/theme/inds/work.html" 
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

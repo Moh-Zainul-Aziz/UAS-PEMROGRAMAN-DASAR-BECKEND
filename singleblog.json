@@ -1,0 +1,265 @@
+{
+    "banner" : [
+        {
+            "image" : "backgrond warna biru",
+            "text"  : "our blog"
+        }
+    ],
+    "content" : [
+        {
+            "sidebar" : [
+                {
+                    "group1" : [
+                        {
+                            "placeholder" : "Search Keyword",
+                            "defaultvalue" : "null",
+                            "icon" : "send",
+                            "url" : "null",
+                            "button_click" : [
+                                {
+                                    "text" : "search",
+                                    "url" : "null"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "group2" : [
+                        {
+                            "tittle_text" : "category",
+                            "text1" : "Resaurant food(37)",
+                            "text2" : "Travel news(10)",
+                            "text3" : "Modern technology(03)",
+                            "text4" : "Product(11)",
+                            "text5" : "Inspiration21",
+                            "text6" : "Health Care (21)09"
+                        }
+                    ]
+                },
+                {
+                    "group3" : [
+                        {
+                            "text" : "Recent Post",
+                            "image" : "laki laki",
+                            "text1" : "From life was you fish...",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "January 12, 2019" 
+                        },
+                        {
+                            "image" : "perempuan",
+                            "text1" : "The Amazing Hubble",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "02 Hours ago" 
+                        },
+                        {
+                            "image" : "astronomy",
+                            "text1" : "Astronomy Or Astrology",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "03 Hours ago" 
+                        },
+                        {
+                            "image" : "ruangan",
+                            "text1" : "Asteroids telescope",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "01 Hours ago" 
+                        }
+                    ]
+                },
+                {
+                    "group4" : [
+                        {
+                            "text" : "Tag Clouds",
+                            "button_click" : [
+                                {
+                                    "text1" : "project",
+                                    "text2" : "love",
+                                    "text3" : "technology",
+                                    "text4" : "travel",
+                                    "text5" : "restaurant",
+                                    "text6" : "life style",
+                                    "text7" : "design",
+                                    "text8" : "illustration"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "group5" : [
+                        {
+                            "text" : "Instagram Feeds",
+                            "image1" : "abstrack",
+                            "image2" : "laki laki",
+                            "image3" : "daun",
+                            "image4" : "make up",
+                            "image5" : "pantai",
+                            "image6" : "minuman"
+                        }
+                    ]
+                },
+                {
+                    "group6" : [
+                        {
+                            "text" : "new-stellar",
+                            "placeholder" : "Enter email",
+                            "defailtvalue" : "null",
+                            "button_click" : [
+                                {
+                                    "text" : "subcribe",
+                                    "url"  : "null"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "maincontent" : [
+                {
+                    "group1" : [
+                        {
+                            "image" : "party",
+                            "textdate" : "15 Jan",
+                            "tetxttitle" : "Google inks pact for new 35-storey office",
+                            "url" : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "textdescription" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually",
+                            "textdescription2" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually",
+                            "quote" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training.",
+                            "icon1" : "profile",
+                            "text1" :  "Travel, Lifestyle",
+                            "icon2" : "chat",
+                            "tex2" : " 03 Comments"
+                        }
+                    ]
+                },
+                {
+                    "group2" : [
+                        {
+                            "comment1" : [
+                                {
+                                    "icon" : "love",
+                                    "text" : " Lily and 4 people like this",
+                                    "left" : [
+                                        {
+                                            "image" : "abstrack",
+                                            "hover" : [
+                                                {
+                                                    "icon" : "arrow",
+                                                    "url" : "null"
+                                                }
+                                            ],
+                                            "text1" : "Prev Post",
+                                            "text2" : "Space The Final Frontier"
+                                        }
+                                    ],
+                                    "right" : [
+                                        {
+                                            "image" : "mockup",
+                                            "hover" : [
+                                                {
+                                                    "icon" : "arrow",
+                                                    "url" : "null"
+                                                }
+                                            ],
+                                            "text1" : "next Post",
+                                            "text2" : "Telescopes 101"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "image" : "people profil",
+                                    "textname" : "Harvard milan",
+                                    "comment" : "Second divided from form fish beast made. Every of seas all gathered use saying you're, he our dominion twon Second divided from"
+                                }
+                            ]
+                        },
+                        {
+                            "comment2" : [
+                                {
+                                    "text" : "05 Comments"
+                                },
+                                {
+                                    "image" :"people profil",
+                                    "textcoment" : "Multiply sea night grass fourth day sea lesser rule open subdue female fill which them Blessed, give fill lesser bearing multiply sea night grass fourth day sea lesse",
+                                    "textname" : "Emilly Blunt",
+                                    "textdate" : "December 4, 2017 at 3:12 pm",
+                                    "click" : [
+                                        {
+                                            "text" : "reply",
+                                            "url"  :"null"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "image" :"people profil",
+                                    "textcoment" : "Multiply sea night grass fourth day sea lesser rule open subdue female fill which them Blessed, give fill lesser bearing multiply sea night grass fourth day sea lesse",
+                                    "textname" : "Emilly Blunt",
+                                    "textdate" : "December 4, 2017 at 3:12 pm",
+                                    "click" : [
+                                        {
+                                            "text" : "reply",
+                                            "url"  :"null"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "image" :"people profil",
+                                    "textcoment" : "Multiply sea night grass fourth day sea lesser rule open subdue female fill which them Blessed, give fill lesser bearing multiply sea night grass fourth day sea lesse",
+                                    "textname" : "Emilly Blunt",
+                                    "textdate" : "December 4, 2017 at 3:12 pm",
+                                    "click" : [
+                                        {
+                                            "text" : "reply",
+                                            "url"  :"null"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "comment3" : [
+                                {
+                                    "text" : "leave a reply"
+                                },
+                                {
+                                    "box" : [
+                                        {
+                                            "placeholder1" : {
+                                                "text" : "write comment"
+                                            }
+                                        },
+                                        {
+                                            "placeholder2" : {
+                                                "text" : "name"
+                                            }
+                                        },
+                                        {
+                                            "placeholder3" : {
+                                                "text" : "email"
+                                            }
+                                        },
+                                        {
+                                            "placeholder4" : {
+                                                "text" : "website"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "button_click" : [
+                                        {
+                                            "text" : "send a message",
+                                            "url" : "null"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
