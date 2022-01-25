@@ -1,0 +1,206 @@
+{
+    "banner" : [
+        {
+            "image" : "backgrond warna biru",
+            "text"  : "our blog"
+        }
+    ],
+    "content" : [
+        {
+            "sidebar" : [
+                {
+                    "group1" : [
+                        {
+                            "placeholder" : "Search Keyword",
+                            "defaultvalue" : "null",
+                            "icon" : "send",
+                            "url" : "null",
+                            "button_click" : [
+                                {
+                                    "text" : "search",
+                                    "url" : "null"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "group2" : [
+                        {
+                            "tittle_text" : "category",
+                            "text1" : "Resaurant food(37)",
+                            "text2" : "Travel news(10)",
+                            "text3" : "Modern technology(03)",
+                            "text4" : "Product(11)",
+                            "text5" : "Inspiration21",
+                            "text6" : "Health Care (21)09"
+                        }
+                    ]
+                },
+                {
+                    "group3" : [
+                        {
+                            "text" : "Recent Post",
+                            "image" : "laki laki",
+                            "text1" : "From life was you fish...",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "January 12, 2019" 
+                        },
+                        {
+                            "image" : "perempuan",
+                            "text1" : "The Amazing Hubble",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "02 Hours ago" 
+                        },
+                        {
+                            "image" : "astronomy",
+                            "text1" : "Astronomy Or Astrology",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "03 Hours ago" 
+                        },
+                        {
+                            "image" : "ruangan",
+                            "text1" : "Asteroids telescope",
+                            "url"  : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "text_date" : "01 Hours ago" 
+                        }
+                    ]
+                },
+                {
+                    "group4" : [
+                        {
+                            "text" : "Tag Clouds",
+                            "button_click" : [
+                                {
+                                    "text1" : "project",
+                                    "text2" : "love",
+                                    "text3" : "technology",
+                                    "text4" : "travel",
+                                    "text5" : "restaurant",
+                                    "text6" : "life style",
+                                    "text7" : "design",
+                                    "text8" : "illustration"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "group5" : [
+                        {
+                            "text" : "Instagram Feeds",
+                            "image1" : "abstrack",
+                            "image2" : "laki laki",
+                            "image3" : "daun",
+                            "image4" : "make up",
+                            "image5" : "pantai",
+                            "image6" : "minuman"
+                        }
+                    ]
+                },
+                {
+                    "group6" : [
+                        {
+                            "text" : "new-stellar",
+                            "placeholder" : "Enter email",
+                            "defailtvalue" : "null",
+                            "button_click" : [
+                                {
+                                    "text" : "subcribe",
+                                    "url"  : "null"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "maincontent" : [
+                {
+                    "group1" : [
+                        {
+                            "image" : "party",
+                            "textdate" : "15 Jan",
+                            "tetxttitle" : "Google inks pact for new 35-storey office",
+                            "url" : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "textdescription" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying",
+                            "icon1" : "profile",
+                            "text1" :  "Travel, Lifestyle",
+                            "icon2" : "chat",
+                            "tex2" : " 03 Comments"
+                        }
+                    ]
+                },
+                {
+                    "group2" : [
+                        {
+                            "image" : "main hp",
+                            "textdate" : "15 Jan",
+                            "tetxttitle" : "Google inks pact for new 35-storey office",
+                            "url" : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "textdescription" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying",
+                            "icon1" : "profile",
+                            "text1" :  "Travel, Lifestyle",
+                            "icon2" : "chat",
+                            "tex2" : " 03 Comments"
+                        }
+                    ]
+                },
+                {
+                    "group3" : [
+                        {
+                            "image" : "wanita bersepatu",
+                            "textdate" : "15 Jan",
+                            "tetxttitle" : "Google inks pact for new 35-storey office",
+                            "url" : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "textdescription" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying",
+                            "icon1" : "profile",
+                            "text1" :  "Travel, Lifestyle",
+                            "icon2" : "chat",
+                            "tex2" : " 03 Comments"
+                        }
+                    ]
+                },
+                {
+                    "group4" : [
+                        {
+                            "image" : "mockup",
+                            "textdate" : "15 Jan",
+                            "tetxttitle" : "Google inks pact for new 35-storey office",
+                            "url" : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "textdescription" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying",
+                            "icon1" : "profile",
+                            "text1" :  "Travel, Lifestyle",
+                            "icon2" : "chat",
+                            "tex2" : " 03 Comments"
+                        }
+                    ]
+                },
+                {
+                    "group5" : [
+                        {
+                            "image" : "cake",
+                            "textdate" : "15 Jan",
+                            "tetxttitle" : "Google inks pact for new 35-storey office",
+                            "url" : "https://preview.colorlib.com/theme/inds/single-blog.html",
+                            "textdescription" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying",
+                            "icon1" : "profile",
+                            "text1" :  "Travel, Lifestyle",
+                            "icon2" : "chat",
+                            "tex2" : " 03 Comments"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "courosel" : [
+        {
+            "icon1" : "arrow_left",
+            "text_number" : "1",
+            "icon2" : "arrow_right",
+            "twxt_nmber" : "2"
+        }
+    ]
+}
