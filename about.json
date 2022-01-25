@@ -1,0 +1,96 @@
+{
+    "banner" : [
+        {
+            "image" : "backgrond warna biru",
+            "text"  : "about us"
+        }
+    ],
+    "content1" : [
+        {
+            "left" : [
+                {
+                    "text" : "Safe IndusterySolutions That Saves our Valuable Time and mony!",
+                    "text2" : "Logisti Group is a representative logistics operator providing full range of service in the sphere of customs clearance and transportation worldwide for any type of cargo.",
+                    "text3" : "Lorem ipsum dolor sit amet, consectetur ipis adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna oris aliqua. Ut enim ad minim veniam, quis nostrud.exercitation ullamco laboris nisi ut aliquip ex ea commodo nsequat. Duis aute irure dolor in repr.",
+                    "button_click" : [
+                        {
+                            "text4" : "our service",
+                            "url"   : "https://preview.colorlib.com/theme/inds/industries.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "right" : [
+                {
+                    "image" : "gambar karyawan",
+                    "icon"  : "globe",
+                    "box" : [
+                        {
+                            "text"  : "Our Mission",
+                            "text2" : "Quis ipsum suspendisse ultrices gravidae Risus commodo."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "content2" : [
+        {
+            "text" : "logisti group is a representative logistic operator providing full rangen of ser of customs clearance and transportation worl.",
+            "text2" : "jesya inn - co founder",
+            "image" : "profil"
+        }
+    ],
+    "content3" : [
+        {
+            "profilmembers" : [
+                {
+                    "text"  : "Our Team Best Mambers",
+                    "text2" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ua. Ut enim ad minim veni.",
+                    "button_click" : [
+                        {
+                            "text3" : "contact us",
+                            "url"   : "https://preview.colorlib.com/theme/inds/contact.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "members" : [
+                {
+                    "image" : "gambar karyawan",
+                    "text1" : "bruce roberts.",
+                    "text2" : "team officer"
+                },
+                {
+                    "image" : "gambar karyawan",
+                    "text1" : "bruce roberts.",
+                    "text2" : "team officer"
+                },
+                {
+                    "image" : "gambar karyawan",
+                    "text1" : "bruce roberts.",
+                    "text2" : "team officer"
+                },
+                {
+                    "image" : "gambar karyawan",
+                    "text1" : "bruce roberts.",
+                    "text2" : "team officer"
+                },
+                {
+                    "image" : "gambar karyawan",
+                    "text1" : "bruce roberts.",
+                    "text2" : "team officer"
+                },
+                {
+                    "image" : "gambar karyawan",
+                    "text1" : "bruce roberts.",
+                    "text2" : "team officer"
+                }
+            ] 
+        }
+    ]
+}
